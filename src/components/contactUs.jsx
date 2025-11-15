@@ -58,20 +58,20 @@ function ContactUs() {
 
             {/* Slogan */}
             <div className="text-white text-center md:text-left">
-              <h3 className="text-2xl sm:text-3xl font-bold">Where Ideas Spark,</h3>
+              <h3 className="text-2xl sm:text-3xl font-bold">CONTACT MR NIPUN OFC</h3>
               <h3 className="text-2xl sm:text-3xl font-bold">and Tech Ignites!⚡</h3>
             </div>
 
             {/* Contact Info */}
             <div className="text-white text-lg sm:text-xl font-bold space-y-2">
               <h4 className="flex items-center gap-2">
-                <CiMail /> iosc.edc@gmail.com
+                <CiMail /> ntechofc1@gmail.com
               </h4>
               <h4 className="flex items-center gap-2">
-                <FaInstagram /> @iosc_edc
+                <FaInstagram /> @mr_nipun_ofc
               </h4>
               <h4 className="flex items-center gap-2">
-                <FaLinkedinIn /> @iosc-usar
+                <FaLinkedinIn /> @ntechofc
               </h4>
             </div>
           </div>
