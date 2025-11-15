@@ -45,9 +45,9 @@ export default function Home() {
   }
    const event = {
     id: "===",
-    title: "MENTORSHIP PROGRAM",
+    title: "MR NIPUN/TECH WEB",
     description:
-      "Mentorship program organised by IOSC EDC Club",
+      "Mentorship program organised by N-TECH OFC",
     date: "Sept 10, 2025 • Offline",
     ctaUrl: "/mentorshipRegistrations",
     // image: EVENTPHOTO,
