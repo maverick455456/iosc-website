@@ -42,7 +42,7 @@ export const useChatbot = () => {
         const welcomeMessage = {
           id: 'welcome',
           role: 'assistant',
-          content: 'Hello! I\'m your IoSC assistant. I can help you with information about our tech club, events, projects, team members, and more. What would you like to know?',
+          content: 'Hello! I\'m your N-Tech Assistant.',
           timestamp: new Date().toISOString(),
         };
 
