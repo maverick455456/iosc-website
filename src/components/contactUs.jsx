@@ -78,7 +78,7 @@ function ContactUs() {
 
           {/* Footer */}
           <div className="mt-16 text-white text-center text-sm sm:text-base font-semibold">
-            <h4>Made with 💙 by IoSC-EDC</h4>
+            <h4>©2025 MR NIPUN OFC/TECH WEB</h4>
             <h4>One Club, One Family</h4>
           </div>
         </div>
