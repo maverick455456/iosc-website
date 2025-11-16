@@ -12,19 +12,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "IoSC-EDC",
+  title: "MR NIPUN OFC/TECH WEB",
   description:
-    "The IoSC-EDC is the official Student Club at GGSIPU. We host tech events, hackathons, and workshops to foster innovation and help students become creators.",
+    "The N-TECH is the official Student Club at GGSIPU. We host tech events, hackathons, and workshops to foster innovation and help students become creators.",
   keywords: [
      "IoSC", "IoSC-EDC", "GGSIPU", "student club", "tech events",
     "hackathons", "workshops", "entrepreneurship", "innovation", "coding", "IPU club",
   ],
   openGraph: {
-    title: "IoSC-EDC",
+    title: "N-TECH OFC",
     description:
-      "Join the top tech and entrepreneurship club at GGSIPU. Participate in hackathons, workshops, and speaker sessions to build your future. 🚀",
+      "Join the top tech and entrepreneurship club at N-Tech. Participate in hackathons, workshops, and speaker sessions to build your future. 🚀",
     url: "https://www.iosc-edc.club", 
-    siteName: "IoSC-EDC",
+    siteName: "N-TECH OFC",
     images: [
       {
         url: "./favicon.ico", 
