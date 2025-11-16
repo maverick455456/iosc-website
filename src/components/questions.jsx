@@ -1,7 +1,7 @@
 const questions = [
     {
-      question: "What is IoSC?",
-      answer: "Yo! IoSC is where tech meets madness 🤖💥 Students’ most dynamic, tech-crazy club!"
+      question: "What is N Tech?",
+      answer: "Yo! N Tech is where tech meets madness 🤖💥 Students’ most dynamic, tech-crazy club!"
     },
     {
       question: "Which is the best club?",
